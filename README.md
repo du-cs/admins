@@ -15,6 +15,35 @@ Admins Dashboard
 <br>
 <br>
 
+### Admins 2019-2020
+
+|S.no. | College                            | Admins                            |
+|------|------------------------------------|-----------------------------------|
+| 1.   | Acharya Narendra Dev College       |                                   |
+| 2.   | Aryabhatta College                 |                                   |
+| 3.   | Atma Ram Sanatan Dharma College    |                                   |
+| 4.   | Bhaskraycharya College of Applied Sciences|                            |
+| 5.   | Cluster Innovation Centre          |                                   |
+| 6.   | College of Vocational Studies      |                                   |
+| 7.   | Deen Dayal Upadhyaya College       |                                   |
+| 8.   | Dayal Singh College                |                                   |
+| 9.   | Department Of Computer Science     |                                   |
+| 10.  | Hans Raj College                   |                                   |
+| 11.  | Indraprastha College for Women     |                                   |
+| 12.  | Kalindi College                    |                                   |
+| 13.  | Keshav Mahavidyalaya               |                                   |
+| 14.  | Mata Sundri College for Women      |                                   |
+| 15.  | P.G.D.A.V. College                 |                                   |
+| 16.  | Ram Lal Anand College              |                                   |
+| 17.  | Ramanujan College                  | Shivam, Pavan Gandhi              |
+| 18.  | Shaheed Rajguru College of App.Sci. for Women|                         |
+| 19.  | Shaheed Sukhdev College of Business Studies |                          |
+| 20.  | Shyama Prasad Mukherjee College    |                                   |
+| 21.  | Sri Guru Gobind Singh College of Commerce|                             |
+| 22.  | Sri Guru Tegh Bahadur Khalsa College |                                 |
+| 23.  | Kirori Mal College                 |                                   |
+
+
 ### Admins 2018-2019
 
 |S.no. | College                            | Admins                            |
