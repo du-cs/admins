@@ -26,7 +26,7 @@ Admins Dashboard
 | 5.   | Cluster Innovation Centre          |                                   |
 | 6.   | College of Vocational Studies      |                                   |
 | 7.   | Deen Dayal Upadhyaya College       |                                   |
-| 8.   | Dayal Singh College                |                                   |
+| 8.   | Dayal Singh College                | Jatin                             |
 | 9.   | Department Of Computer Science     |                                   |
 | 10.  | Hans Raj College                   |                                   |
 | 11.  | Indraprastha College for Women     |                                   |
@@ -36,7 +36,7 @@ Admins Dashboard
 | 15.  | P.G.D.A.V. College                 |                                   |
 | 16.  | Ram Lal Anand College              |                                   |
 | 17.  | Ramanujan College                  | Shivam, Pavan Gandhi              |
-| 18.  | Shaheed Rajguru College of App.Sci. for Women|                         |
+| 18.  | Shaheed Rajguru College of App.Sci. for Women| Vaishnavi Jha           |
 | 19.  | Shaheed Sukhdev College of Business Studies |                          |
 | 20.  | Shyama Prasad Mukherjee College    |                                   |
 | 21.  | Sri Guru Gobind Singh College of Commerce|                             |
